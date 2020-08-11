@@ -1,5 +1,5 @@
 ---
-name: New Feature
+name: Feature
 about: Add a new functionality to the codebase
 title: ''
 labels: 'Type: New Feature :heavy_plus_sign:'
