@@ -1,5 +1,7 @@
 ## Description
-<TODO>
+<TODO> - add short description
+
+Fixes <TODO> (link the issue)
 
 ## Testing
 - What was used for testing this PR
